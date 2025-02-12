@@ -34,3 +34,4 @@ dist/
 
 .pnpm_store
 .plasmo
+venv
