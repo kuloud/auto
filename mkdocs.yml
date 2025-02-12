@@ -40,6 +40,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+  logo: assets/images/logo.png
 
 plugins:
   - search

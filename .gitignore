@@ -32,6 +32,6 @@ dist/
 # typescript
 .tsbuildinfo
 
-.pnpm_store
+.pnpm-store
 .plasmo
 venv
