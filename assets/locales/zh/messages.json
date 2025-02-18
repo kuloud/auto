@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Auto",
+    "description": "插件名字"
+  },
+  "extensionDescription": {
+    "message": "通过连接块来自动化浏览器的扩展。",
+    "description": "插件描述"
+  }
+}

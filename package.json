@@ -1,8 +1,8 @@
 {
   "name": "auto",
-  "displayName": "Auto",
+  "displayName": "__MSG_extensionName__",
   "version": "0.0.1",
-  "description": "An extension for automating your browser by connecting blocks.",
+  "description": "__MSG_extensionDescription__",
   "author": "kuloud. <xkuloud@gmail.com>",
   "scripts": {
     "dev": "plasmo dev",
@@ -11,19 +11,20 @@
   },
   "dependencies": {
     "@heroui/react": "^2.6.14",
-    "framer-motion": "^12.4.2",
+    "framer-motion": "^12.4.3",
     "next": "^15.1.7",
-    "plasmo": "0.90.2",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "plasmo": "0.90.3",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "zustand": "^5.0.3"
   },
   "devDependencies": {
     "@ianvs/prettier-plugin-sort-imports": "4.4.1",
-    "@types/chrome": "0.0.258",
-    "@types/node": "20.11.5",
-    "@types/react": "18.2.48",
-    "@types/react-dom": "18.2.18",
-    "prettier": "3.5.0",
+    "@types/chrome": "0.0.304",
+    "@types/node": "22.13.4",
+    "@types/react": "19.0.10",
+    "@types/react-dom": "19.0.4",
+    "prettier": "3.5.1",
     "typescript": "5.7.3"
   },
   "manifest": {
