@@ -9,7 +9,7 @@ export default defineContentScript({
 
   async main(ctx) {
     const ui = await createShadowRootUi(ctx, {
-      name: "wxt-auto",
+      name: "x-auto",
       position: "inline",
       anchor: "body",
       append: "first",
